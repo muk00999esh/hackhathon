@@ -1,4 +1,4 @@
-personId,providerId,diagnosis
+memberId,providerId,diagnosis
 1,1,Viral hepatitis
 2,1,Trichinosis
 3,2,Pulmonary tuberculosis
