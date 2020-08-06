@@ -1,6 +1,7 @@
 memberId,providerId,diagnosis
 1,1,Viral hepatitis
-1,2,Pulmonary tuberculosis
-2,1,Trichinosis
-3,2,Pulmonary tuberculosis
+4,1,Pulmonary tuberculosis
+3,1,Trichinosis
 4,2,Mosquito-borne viral encephalitis
+3,2,Cancer
+5,3,Covid
