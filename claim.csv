@@ -1,5 +1,6 @@
 memberId,providerId,diagnosis
 1,1,Viral hepatitis
+1,2,Pulmonary tuberculosis
 2,1,Trichinosis
 3,2,Pulmonary tuberculosis
 4,2,Mosquito-borne viral encephalitis
